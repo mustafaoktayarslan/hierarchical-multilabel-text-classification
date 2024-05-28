@@ -1,0 +1,465 @@
+[
+    {
+        "0": {
+            "0": {
+                "Algorithm design": null
+            },
+            "1": {
+                "Bioinformatics": null
+            },
+            "2": {
+                "Computer graphics": null
+            },
+            "3": {
+                "Computer programming": null
+            },
+            "4": {
+                "Computer vision": null
+            },
+            "5": {
+                "Cryptography": null
+            },
+            "6": {
+                "Data structures": null
+            },
+            "7": {
+                "Distributed computing": null
+            },
+            "8": {
+                "Image processing": null
+            },
+            "9": {
+                "Machine learning": null
+            },
+            "10": {
+                "Operating systems": null
+            },
+            "11": {
+                "Parallel computing": null
+            },
+            "12": {
+                "Relational databases": null
+            },
+            "13": {
+                "Software engineering": null
+            },
+            "14": {
+                "Structured Storage": null
+            },
+            "15": {
+                "Symbolic computation": null
+            },
+            "16": {
+                "network security": null
+            }
+        }
+    },
+    {
+        "1": {
+            "0": {
+                "Ambient Intelligence": null
+            },
+            "1": {
+                "Bamboo as a Building Material": null
+            },
+            "2": {
+                "Construction Management": null
+            },
+            "3": {
+                "Geotextile": null
+            },
+            "4": {
+                "Green Building": null
+            },
+            "5": {
+                "Highway Network System": null
+            },
+            "6": {
+                "Nano Concrete": null
+            },
+            "7": {
+                "Rainwater Harvesting": null
+            },
+            "8": {
+                "Remote Sensing": null
+            },
+            "9": {
+                "Smart Material": null
+            },
+            "10": {
+                "Solar Energy": null
+            },
+            "11": {
+                "Stealth Technology": null
+            },
+            "12": {
+                "Suspension Bridge": null
+            },
+            "13": {
+                "Transparent Concrete": null
+            },
+            "14": {
+                "Underwater Windmill": null
+            },
+            "15": {
+                "Water Pollution": null
+            }
+        }
+    },
+    {
+        "2": {
+            "0": {
+                "Analog signal processing": null
+            },
+            "1": {
+                "Control engineering": null
+            },
+            "2": {
+                "Digital control": null
+            },
+            "3": {
+                "Electric motor": null
+            },
+            "4": {
+                "Electrical circuits": null
+            },
+            "5": {
+                "Electrical generator": null
+            },
+            "6": {
+                "Electrical network": null
+            },
+            "7": {
+                "Electricity": null
+            },
+            "8": {
+                "Lorentz force law": null
+            },
+            "9": {
+                "Microcontroller": null
+            },
+            "10": {
+                "Operational amplifier": null
+            },
+            "11": {
+                "PID controller": null
+            },
+            "12": {
+                "Satellite radio": null
+            },
+            "13": {
+                "Signal-flow graph": null
+            },
+            "14": {
+                "Single-phase electric power": null
+            },
+            "15": {
+                "State space representation": null
+            },
+            "16": {
+                "System identification": null
+            },
+            "17": {
+                "Voltage law": null
+            }
+        }
+    },
+    {
+        "3": {
+            "0": {
+                "Fluid mechanics": null
+            },
+            "1": {
+                "Hydraulics": null
+            },
+            "2": {
+                "Internal combustion engine": null
+            },
+            "3": {
+                "Machine design": null
+            },
+            "4": {
+                "Manufacturing engineering": null
+            },
+            "5": {
+                "Materials Engineering": null
+            },
+            "6": {
+                "Strength of materials": null
+            },
+            "7": {
+                "Thermodynamics": null
+            },
+            "8": {
+                "computer-aided design": null
+            }
+        }
+    },
+    {
+        "4": {
+            "0": {
+                "Addiction": null
+            },
+            "1": {
+                "Allergies": null
+            },
+            "2": {
+                "Alzheimer's Disease": null
+            },
+            "3": {
+                "Ankylosing Spondylitis": null
+            },
+            "4": {
+                "Anxiety": null
+            },
+            "5": {
+                "Asthma": null
+            },
+            "6": {
+                "Atopic Dermatitis": null
+            },
+            "7": {
+                "Atrial Fibrillation": null
+            },
+            "8": {
+                "Autism": null
+            },
+            "9": {
+                "Bipolar Disorder": null
+            },
+            "10": {
+                "Birth Control": null
+            },
+            "11": {
+                "Cancer": null
+            },
+            "12": {
+                "Children's Health": null
+            },
+            "13": {
+                "Crohn's Disease": null
+            },
+            "14": {
+                "Dementia": null
+            },
+            "15": {
+                "Depression": null
+            },
+            "16": {
+                "Diabetes": null
+            },
+            "17": {
+                "Digestive Health": null
+            },
+            "18": {
+                "Emergency Contraception": null
+            },
+            "19": {
+                "Fungal Infection": null
+            },
+            "20": {
+                "HIV/AIDS": null
+            },
+            "21": {
+                "Headache": null
+            },
+            "22": {
+                "Healthy Sleep": null
+            },
+            "23": {
+                "Heart Disease": null
+            },
+            "24": {
+                "Hepatitis C": null
+            },
+            "25": {
+                "Hereditary Angioedema": null
+            },
+            "26": {
+                "Hypothyroidism": null
+            },
+            "27": {
+                "Idiopathic Pulmonary Fibrosis": null
+            },
+            "28": {
+                "Irritable Bowel Syndrome": null
+            },
+            "29": {
+                "Kidney Health": null
+            },
+            "30": {
+                "Low Testosterone": null
+            },
+            "31": {
+                "Lymphoma": null
+            },
+            "32": {
+                "Medicare": null
+            },
+            "33": {
+                "Menopause": null
+            },
+            "34": {
+                "Mental Health": null
+            },
+            "35": {
+                "Migraine": null
+            },
+            "36": {
+                "Multiple Sclerosis": null
+            },
+            "37": {
+                "Myelofibrosis": null
+            },
+            "38": {
+                "Osteoarthritis": null
+            },
+            "39": {
+                "Osteoporosis": null
+            },
+            "40": {
+                "Outdoor Health": null
+            },
+            "41": {
+                "Overactive Bladder": null
+            },
+            "42": {
+                "Parenting": null
+            },
+            "43": {
+                "Parkinson's Disease": null
+            },
+            "44": {
+                "Polycythemia Vera": null
+            },
+            "45": {
+                "Psoriasis": null
+            },
+            "46": {
+                "Psoriatic Arthritis": null
+            },
+            "47": {
+                "Rheumatoid Arthritis": null
+            },
+            "48": {
+                "Schizophrenia": null
+            },
+            "49": {
+                "Senior Health": null
+            },
+            "50": {
+                "Skin Care": null
+            },
+            "51": {
+                "Smoking Cessation": null
+            },
+            "52": {
+                "Sports Injuries": null
+            },
+            "53": {
+                "Sprains and Strains": null
+            },
+            "54": {
+                "Stress Management": null
+            },
+            "55": {
+                "Weight Loss": null
+            }
+        }
+    },
+    {
+        "5": {
+            "0": {
+                "Antisocial personality disorder": null
+            },
+            "1": {
+                "Attention": null
+            },
+            "2": {
+                "Borderline personality disorder": null
+            },
+            "3": {
+                "Child abuse": null
+            },
+            "4": {
+                "Depression": null
+            },
+            "5": {
+                "Eating disorders": null
+            },
+            "6": {
+                "False memories": null
+            },
+            "7": {
+                "Gender roles": null
+            },
+            "8": {
+                "Leadership": null
+            },
+            "9": {
+                "Media violence": null
+            },
+            "10": {
+                "Nonverbal communication": null
+            },
+            "11": {
+                "Person perception": null
+            },
+            "12": {
+                "Prejudice": null
+            },
+            "13": {
+                "Prenatal development": null
+            },
+            "14": {
+                "Problem-solving": null
+            },
+            "15": {
+                "Prosocial behavior": null
+            },
+            "16": {
+                "Schizophrenia": null
+            },
+            "17": {
+                "Seasonal affective disorder": null
+            },
+            "18": {
+                "Social cognition": null
+            }
+        }
+    },
+    {
+        "6": {
+            "0": {
+                "Cell biology": null
+            },
+            "1": {
+                "DNA/RNA sequencing": null
+            },
+            "2": {
+                "Enzymology": null
+            },
+            "3": {
+                "Genetics": null
+            },
+            "4": {
+                "Human Metabolism": null
+            },
+            "5": {
+                "Immunology": null
+            },
+            "6": {
+                "Molecular biology": null
+            },
+            "7": {
+                "Northern blotting": null
+            },
+            "8": {
+                "Polymerase chain reaction": null
+            },
+            "9": {
+                "Southern blotting": null
+            }
+        }
+    }
+]
